@@ -1,5 +1,5 @@
 package com.csi.sadf;
-
+//change the value
 public class StringRepeat {
 public static void main(String[] args) {
 	String s1="abhi";
